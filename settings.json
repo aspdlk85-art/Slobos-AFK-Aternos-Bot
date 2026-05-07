@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "tanak124.aternos.me",
-    "port": 24891,
+    "port":24891,
     "version": "",
     "try-creative": false
   },
